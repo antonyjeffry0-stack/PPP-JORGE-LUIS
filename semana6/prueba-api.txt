@@ -1,0 +1,3 @@
+"estados": datos recibidos 
+"nombre": Maria 
+"mensaje": hola comunidad

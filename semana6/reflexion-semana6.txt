@@ -1,0 +1,9 @@
+Recibir la información de forma estructurada es clave porque
+evita el caos de leer miles de mensajes desordenados. Al pedirle
+a los ciudadanos datos específicos como el tipo de problema, la foto
+y la ubicación, las plataformas pueden procesar todo de manera
+automática y sin perder tiempo. Esto permite que los algoritmos
+envíen el reporte directamente al departamento encargado en segundos,
+ayuda a identificar qué zonas tienen más problemas mediante mapas
+de calor y, al final, hace que las soluciones lleguen muchísimo
+más rápido a la gente.

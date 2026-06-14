@@ -1,0 +1,3 @@
+"tipo": iluminacion publica 
+descripcion: la comunidad reporta que una lampara del pueblo no
+funciona desde hace varios dias  
