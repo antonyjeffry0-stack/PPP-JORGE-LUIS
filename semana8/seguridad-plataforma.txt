@@ -1,0 +1,9 @@
+Implementar autenticación de doble factor.
+​
+Mantener el software actualizado.
+​
+Filtrar enlaces y contenido malicioso.
+​
+Realizar copias de seguridad periódicas.
+​
+Cerrar sesiones por inactividad.

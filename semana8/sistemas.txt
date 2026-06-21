@@ -1,0 +1,10 @@
+el whoami: Muestra el nombre del usuario actual con el que se está
+sesionando en el sistema.
+
+el uname -a: Muestra la información detallada del sistema operativo
+incluyendo su nombre, versión y la arquitectura del equipo
+
+​Por qué es útil al administrar un servidor:
+Es fundamental porque permite verificar si se tienen los permisos correctos
+(según el usuario) y confirmar la compatibilidad del sistema operativo
+antes de realizar cualquier configuración o instalación.
